@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.age-card {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.coverage-full-pie-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-heading {
+  color: #94a3b8;
+}

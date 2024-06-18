@@ -1,0 +1,223 @@
+/* Write your CSS here */
+@media (min-width: 1200px) {
+  .bg-card {
+    background-color: #161625;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .main-bg-card {
+    width: 80%;
+  }
+
+  .logo-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .logo-img {
+    height: 50px;
+  }
+
+  .logo-heading {
+    color: #2cc6c6;
+    font-size: 30px;
+    margin-left: 10px;
+  }
+
+  .title-card {
+  }
+  .title-heading {
+    color: #cbd5e1;
+    font-size: 30px;
+  }
+
+  .loader-card {
+    height: 70vh;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .failure-card {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .failure-img {
+    height: 300px;
+    width: 30vw;
+  }
+
+  .coverage-card {
+    width: 100%;
+    background-color: #1c1c2b;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+  }
+  .coverage-bar-card {
+    margin-left: -20px;
+    margin-right: 20px;
+  }
+
+  .gender-card {
+    width: 100%;
+    background-color: #1c1c2b;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  .coverage-half-pie-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .age-card {
+    width: 100%;
+    background-color: #1c1c2b;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  .coverage-full-pie-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .card-heading {
+    color: #94a3b8;
+  }
+}
+.bg-card {
+  background-color: #161625;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.main-bg-card {
+  width: 80%;
+}
+
+.logo-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo-img {
+  height: 50px;
+}
+
+.logo-heading {
+  color: #2cc6c6;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.title-card {
+}
+.title-heading {
+  color: #cbd5e1;
+  font-size: 30px;
+}
+
+.loader-card {
+  height: 70vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-card {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  height: 300px;
+  width: 30vw;
+}
+
+.coverage-card {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 15px;
+}
+.coverage-bar-card {
+  margin-left: -20px;
+  margin-right: 20px;
+}
+
+.gender-card {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.coverage-half-pie-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.age-card {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.coverage-full-pie-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-heading {
+  color: #94a3b8;
+}
